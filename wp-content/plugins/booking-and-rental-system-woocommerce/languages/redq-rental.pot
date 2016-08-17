@@ -1,0 +1,685 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo-commerce Rental & Booking\n"
+"POT-Creation-Date: 2016-02-07 00:59+0600\n"
+"PO-Revision-Date: 2016-02-07 00:59+0600\n"
+"Last-Translator: \n"
+"Language-Team: RedQTeam <redq.team@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../../../Applications/MAMP/htdocs/wordpress/rental/wp-"
+"content/plugins/woocommerce-rental-and-bookings\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/class-redq-rental-meta-boxes.php:19
+msgid "RedQ Rental Product"
+msgstr ""
+
+#: includes/admin/class-redq-rental-meta-boxes.php:27
+msgid "Price Calculation"
+msgstr ""
+
+#: includes/admin/class-redq-rental-meta-boxes.php:33
+msgid "Availability"
+msgstr ""
+
+#: includes/admin/class-redq-rental-meta-boxes.php:39
+#: templates/single-product/add-to-cart/redq_rental.php:123
+msgid "Resources"
+msgstr ""
+
+#: includes/admin/class-redq-rental-meta-boxes.php:45
+msgid "Person"
+msgstr ""
+
+#: includes/admin/class-redq-rental-meta-boxes.php:51
+msgid "Security Deposite"
+msgstr ""
+
+#: includes/admin/class-redq-rental-meta-boxes.php:57
+msgid "Locations"
+msgstr ""
+
+#: includes/admin/class-redq-rental-meta-boxes.php:63
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/views/html-additional-feature-meta.php:16
+#: includes/admin/views/html-attribute-info-meta.php:27
+#: includes/admin/views/html-days-range-meta.php:28
+#: includes/admin/views/html-dropoff-location-meta.php:28
+#: includes/admin/views/html-person-meta.php:34
+#: includes/admin/views/html-pickup-location-meta.php:28
+#: includes/admin/views/html-resource-meta.php:33
+#: includes/admin/views/html-security-deposite-meta.php:39
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/views/html-additional-feature-meta.php:31
+#: includes/admin/views/html-additional-feature-meta.php:32
+msgid "Feature Name"
+msgstr ""
+
+#: includes/admin/views/html-attribute-info-meta.php:42
+#: includes/admin/views/html-attribute-info-meta.php:43
+msgid "Attribute Name"
+msgstr ""
+
+#: includes/admin/views/html-attribute-info-meta.php:52
+msgid "Attribute Value"
+msgstr ""
+
+#: includes/admin/views/html-attribute-info-meta.php:53
+msgid "attribute value"
+msgstr ""
+
+#: includes/admin/views/html-attribute-info-meta.php:63
+msgid "Font Awesome Icon Name"
+msgstr ""
+
+#: includes/admin/views/html-attribute-info-meta.php:64
+msgid "fa-car"
+msgstr ""
+
+#: includes/admin/views/html-days-range-meta.php:27
+#: includes/admin/views/html-days-range-meta.php:41
+msgid "Days"
+msgstr ""
+
+#: includes/admin/views/html-days-range-meta.php:27
+msgid "-  Cost"
+msgstr ""
+
+#: includes/admin/views/html-days-range-meta.php:40
+msgid "Min Days"
+msgstr ""
+
+#: includes/admin/views/html-days-range-meta.php:54
+msgid "Max Days"
+msgstr ""
+
+#: includes/admin/views/html-days-range-meta.php:55
+msgid "days"
+msgstr ""
+
+#: includes/admin/views/html-days-range-meta.php:68
+msgid "Days Range Cost"
+msgstr ""
+
+#: includes/admin/views/html-days-range-meta.php:69
+msgid "Cost"
+msgstr ""
+
+#: includes/admin/views/html-dropoff-location-meta.php:44
+#: includes/admin/views/html-pickup-location-meta.php:43
+msgid "Location Title"
+msgstr ""
+
+#: includes/admin/views/html-dropoff-location-meta.php:45
+#: includes/admin/views/html-pickup-location-meta.php:44
+msgid "Title"
+msgstr ""
+
+#: includes/admin/views/html-dropoff-location-meta.php:54
+#: includes/admin/views/html-pickup-location-meta.php:53
+msgid "Location Address"
+msgstr ""
+
+#: includes/admin/views/html-dropoff-location-meta.php:55
+#: includes/admin/views/html-pickup-location-meta.php:54
+msgid "Address"
+msgstr ""
+
+#: includes/admin/views/html-own-availability.php:12
+msgid "Custom date range"
+msgstr ""
+
+#: includes/admin/views/html-own-availability.php:29
+msgid "Not"
+msgstr ""
+
+#: includes/admin/views/html-own-availability.php:30
+#: includes/admin/views/html-product-settings-data.php:11
+#: includes/admin/views/html-security-deposite-meta.php:110
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/views/html-own-availability.php:34
+msgid "delete"
+msgstr ""
+
+#: includes/admin/views/html-person-meta.php:33
+msgid "Additinal Person # "
+msgstr ""
+
+#: includes/admin/views/html-person-meta.php:49
+msgid "No. of person"
+msgstr ""
+
+#: includes/admin/views/html-person-meta.php:50
+msgid "Person no."
+msgstr ""
+
+#: includes/admin/views/html-person-meta.php:59
+msgid "Person Cost"
+msgstr ""
+
+#: includes/admin/views/html-person-meta.php:60
+msgid "person cost"
+msgstr ""
+
+#: includes/admin/views/html-person-meta.php:73
+msgid "Person Price Applicable"
+msgstr ""
+
+#: includes/admin/views/html-person-meta.php:74
+#: includes/admin/views/html-resource-meta.php:74
+#: includes/admin/views/html-security-deposite-meta.php:80
+msgid "This will be applicable during booking cost calculation"
+msgstr ""
+
+#: includes/admin/views/html-person-meta.php:76
+#: includes/admin/views/html-resource-meta.php:76
+#: includes/admin/views/html-security-deposite-meta.php:82
+msgid "Per Day"
+msgstr ""
+
+#: includes/admin/views/html-person-meta.php:77
+#: includes/admin/views/html-resource-meta.php:77
+#: includes/admin/views/html-security-deposite-meta.php:83
+msgid "One Time"
+msgstr ""
+
+#: includes/admin/views/html-person-meta.php:87
+msgid "Hourly person Cost"
+msgstr ""
+
+#: includes/admin/views/html-person-meta.php:88
+msgid "Hourly person cost"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:8
+msgid "Block Rental Dates"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:9
+msgid "This will be applicable for calendar date blocks"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:12
+#: includes/admin/views/html-security-deposite-meta.php:111
+msgid "No"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:23
+msgid "Date Format Settings"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:24
+msgid "This will be applicable for all date calendar"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:26
+msgid "m/d/Y"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:27
+msgid "d/m/Y"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:28
+msgid "Y/m/d"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:39
+msgid "Maximum time late"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:40
+msgid "Another day will be count if anyone being late during departure"
+msgstr ""
+
+#: includes/admin/views/html-product-settings-data.php:41
+msgid "time"
+msgstr ""
+
+#: includes/admin/views/html-resource-meta.php:48
+#: includes/admin/views/html-resource-meta.php:49
+msgid "Resource Name"
+msgstr ""
+
+#: includes/admin/views/html-resource-meta.php:58
+msgid "Resource Cost"
+msgstr ""
+
+#: includes/admin/views/html-resource-meta.php:59
+msgid "resource cost"
+msgstr ""
+
+#: includes/admin/views/html-resource-meta.php:73
+msgid "Extras Price Applicable"
+msgstr ""
+
+#: includes/admin/views/html-resource-meta.php:87
+msgid "Hourly Resource Cost"
+msgstr ""
+
+#: includes/admin/views/html-resource-meta.php:88
+msgid "Hourly resource cost"
+msgstr ""
+
+#: includes/admin/views/html-security-deposite-meta.php:54
+msgid "Security Deposite Name"
+msgstr ""
+
+#: includes/admin/views/html-security-deposite-meta.php:55
+msgid "security deposite name"
+msgstr ""
+
+#: includes/admin/views/html-security-deposite-meta.php:64
+msgid "Security Deposite Cost"
+msgstr ""
+
+#: includes/admin/views/html-security-deposite-meta.php:65
+msgid "security deposite cost"
+msgstr ""
+
+#: includes/admin/views/html-security-deposite-meta.php:79
+msgid "security_deposite Price Applicable"
+msgstr ""
+
+#: includes/admin/views/html-security-deposite-meta.php:93
+#: includes/admin/views/html-security-deposite-meta.php:94
+msgid "Hourly security deposite cost"
+msgstr ""
+
+#: includes/admin/views/html-security-deposite-meta.php:108
+msgid "Security deposite clickable"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:5
+msgid "Set Price Type"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:5
+#, php-format
+msgid "Choose a price type - this controls the <a href=\"%s\">schema</a>."
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:6
+msgid "General Pricing"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:7
+msgid "Daily Pricing"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:8
+msgid "Montly Pricing"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:9
+msgid "Days Range Pricing"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:15
+msgid "Hourly Price"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:15
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:25
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:50
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:55
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:60
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:65
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:70
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:75
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:80
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:109
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:114
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:119
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:124
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:129
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:134
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:139
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:144
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:149
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:154
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:159
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:164
+msgid "Enter price here"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:15
+msgid "Hourly price will be applicabe if booking or rental days min 1day"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:23
+msgid "Set general pricing plan"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:25
+msgid "General Price"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:33
+msgid "Set daily pricing Plan"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:50
+msgid "Friday"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:55
+msgid "Saturday"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:60
+msgid "Sunday"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:65
+msgid "Monday"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:70
+msgid "Tuesday"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:75
+msgid "Wednesday"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:80
+msgid "Thursday"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:88
+msgid "Set monthly pricing plan"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:109
+msgid "January"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:114
+msgid "February"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:119
+msgid "March"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:124
+msgid "April"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:129
+msgid "May"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:134
+msgid "June"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:139
+msgid "July"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:144
+msgid "August"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:149
+msgid "September"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:154
+msgid "October"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:159
+msgid "November"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:164
+msgid "December"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:173
+msgid "Set day ranges pricing plans"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:184
+msgid "Add Days Range"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:208
+msgid "Product Availabilities"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:216
+msgid "Range type"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:217
+msgid "From"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:218
+msgid "To"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:219
+msgid "Bookable"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:219
+msgid ""
+"Please select the date range for which you want the product to be disabled."
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:231
+msgid "Add Dates"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:232
+msgid "Please select the date range to be disabled for the product."
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:260
+msgid "Add Payable Resources"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:272
+msgid "Add Resources"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:295
+msgid "Add Payable Person and their cost"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:307
+msgid "Add Person"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:331
+msgid "Add Payable Security Deposite"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:343
+msgid "Add Security Deposite"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:367
+msgid "Add Pickup Locations"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:379
+msgid "Add Pickup Location"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:397
+msgid "Add Return Locations"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:409
+msgid "Add Drop Off Location"
+msgstr ""
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:432
+msgid "Settings of this product"
+msgstr ""
+
+#: includes/admin/views/redq-rental-general-tab.php:14
+msgid "Add Attributes"
+msgstr ""
+
+#: includes/admin/views/redq-rental-general-tab.php:45
+msgid "Add Additional Features"
+msgstr ""
+
+#: includes/class-redq-product-tabs.php:38
+msgid "Attributes"
+msgstr ""
+
+#: includes/class-redq-product-tabs.php:44
+msgid "Features"
+msgstr ""
+
+#: redq-rental-and-bookings.php:446
+msgid ""
+"Please Install WooCommerce First before activating this Plugin. You can "
+"download WooCommerce from <a href=\"http://wordpress.org/plugins/woocommerce/"
+"\">here</a>."
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:22
+msgid "show pricing"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:27
+msgid "Pricing Plans"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:33
+msgid "days:"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:34
+msgid "/ day"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:72
+msgid "Pick-up Locations"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:73
+msgid "- Select pick-up city -"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:74
+msgid "- Select pick-up location -"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:86
+msgid "Drop-off Locations"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:87
+msgid "- Select drop-off city -"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:88
+msgid "- Select drop-off location -"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:97
+msgid "Pickup Date & Time"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:100
+msgid "Pick-up date"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:104
+msgid "Pick-up time"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:109
+msgid "Drop-off Date & Time"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:112
+msgid "Drop-off date"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:116
+msgid "drop-up time"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:132
+msgid " - Per Day"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:133
+msgid " - Per Hour"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:135
+msgid " - One Time"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:147
+msgid "Additional Person"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:148
+msgid "Additional Person Cost"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:149
+msgid "-Additional Person Cost-"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:152
+#: templates/single-product/add-to-cart/redq_rental.php:153
+#: templates/single-product/add-to-cart/redq_rental.php:155
+msgid "Person - "
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:152
+#: templates/single-product/add-to-cart/redq_rental.php:153
+#: templates/single-product/add-to-cart/redq_rental.php:155
+msgid " :  Cost - "
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:152
+msgid " - Per day"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:153
+msgid " - Per hour"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:155
+msgid " - One time"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:166
+msgid "Security Deposites"
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:187
+msgid "Total Booking Cost : "
+msgstr ""
+
+#: templates/single-product/add-to-cart/redq_rental.php:191
+msgid "Book Now"
+msgstr ""

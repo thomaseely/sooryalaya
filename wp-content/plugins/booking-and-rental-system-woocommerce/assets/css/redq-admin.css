@@ -1,0 +1,59 @@
+h4.redq-headings{
+	padding-left: 13px;
+}
+
+.redq-show-bar{
+	background: #f4f4f4; 
+	padding: 10px; 
+	margin: 10px; 
+	height: 42px; 
+	border: 1px solid #eee;
+}
+
+#woocommerce-coupon-data ul.wc-tabs li.price_calculation_options a:before, #woocommerce-product-data ul.wc-tabs li.price_calculation_options a:before, .woocommerce ul.wc-tabs li.price_calculation_options a:before {
+    content: "\f181";
+    font-family: Dashicons;
+}
+
+#woocommerce-coupon-data ul.wc-tabs li.availability_options a:before, #woocommerce-product-data ul.wc-tabs li.availability_options a:before, .woocommerce ul.wc-tabs li.availability_options a:before {
+    content: "\f508";
+    font-family: Dashicons;
+}
+
+#woocommerce-coupon-data ul.wc-tabs li.resources_options a:before, #woocommerce-product-data ul.wc-tabs li.resources_options a:before, .woocommerce ul.wc-tabs li.resources_options a:before {
+    content: "\f118";
+    font-family: Dashicons;
+}
+
+#woocommerce-coupon-data ul.wc-tabs li.person_options a:before, #woocommerce-product-data ul.wc-tabs li.person_options a:before, .woocommerce ul.wc-tabs li.person_options a:before {
+    content: "\f307";
+    font-family: Dashicons;
+}
+
+#woocommerce-coupon-data ul.wc-tabs li.security_deposite_options a:before, #woocommerce-product-data ul.wc-tabs li.security_deposite_options a:before, .woocommerce ul.wc-tabs li.security_deposite_options a:before {
+    content: "\f112";
+    font-family: Dashicons;
+}
+
+#woocommerce-coupon-data ul.wc-tabs li.locations_options a:before, #woocommerce-product-data ul.wc-tabs li.locations_options a:before, .woocommerce ul.wc-tabs li.locations_options a:before {
+    content: "\f230";
+    font-family: Dashicons;
+}
+
+#woocommerce-coupon-data ul.wc-tabs li.settings_options a:before, #woocommerce-product-data ul.wc-tabs li.settings_options a:before, .woocommerce ul.wc-tabs li.settings_options a:before {
+    content: "\f107";
+    font-family: Dashicons;
+}
+
+.own_availibility .from_date input , .own_availibility .to_date input , .own_availibility .select select {
+    width: 100% !important;
+}
+
+.own_availibility .remove button{
+    padding: 0px;
+    margin-top: 0px;
+    width: 100%;
+    background: #B3210A;
+}
+
+
